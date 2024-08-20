@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.container {
+  background-size: cover;
+  background-position: center; 
+  color: white;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 94.5vh;
+}
+
+.content {
+  background: rgba(153, 150, 211, 60%); /* Blanched almond with 50% opacity */
+  width: 500px;
+  height: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: Abel;
+}
+
+.content-advice {
+  font-size: 24px;
+}
+
+button {
+  padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border: 0px;
+    background: rosybrown;
+    color: white;
+    font-size: 15px;
+}
